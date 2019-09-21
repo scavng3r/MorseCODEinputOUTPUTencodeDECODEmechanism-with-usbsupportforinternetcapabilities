@@ -1,7 +1,9 @@
 morse code input encode/decode mechanism
 
 
-have morse code unit/tapper and utilize usb input by retrofit //maybe even with the tap mechanism on a cellphone screen??!saves the trouble of attching a usb to a morsecode device...still cool tho..
+have morse code unit/tapper and utilize usb input by retrofit //maybe even with the tap mechanism on a cellphone screen??!saves the 
+trouble of attching a usb to a morsecode device...still cool tho..
+
 
 //create start of code here vvvvv
 
