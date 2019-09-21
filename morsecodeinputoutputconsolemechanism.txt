@@ -1,0 +1,17 @@
+morse code input decode mechanism
+
+
+have morse code unit/tapper and utilize usb input by retrofit
+
+//create start of code here vvvvv
+
+simple 11111111<->00000000 on off beep or silence input and output encoder/decoder
+
+when system is hung at <-> (somehow) it wait for input in binary tap
+
+then resumes normal operation and send the morse through internet channels or data feeds or soundoutputs or whatever
+
+ daemon 2 (lets call it taptastic)
+which would be running and listening for ports or data output in binary (maybe even a new way to get binary data realtime from cpu?!!)
+and then of course simple 11111111<->00000000 decode for output
+
