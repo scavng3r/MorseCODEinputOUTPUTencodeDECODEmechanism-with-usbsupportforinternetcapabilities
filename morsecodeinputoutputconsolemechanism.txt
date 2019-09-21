@@ -1,4 +1,4 @@
-morse code input decode mechanism
+morse code input encode/decode mechanism
 
 
 have morse code unit/tapper and utilize usb input by retrofit
