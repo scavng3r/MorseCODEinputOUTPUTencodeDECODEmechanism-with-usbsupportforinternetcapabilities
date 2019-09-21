@@ -9,7 +9,8 @@ trouble of attching a usb to a morsecode device...still cool tho..
 
 simple 11111111<->00000000 on off beep or silence input and output encoder/decoder
 
-when system is hung at <-> (somehow) it wait for input in binary tap  8tap become the binary output from a delimiter string = space
+when system is hung at <-> (somehow) it wait for input in binary tap  8tap becomes
+and encoded message from the binary output from a delimiter string = space
 
 then resumes normal operation and send the morse through internet channels or data feeds or soundoutputs or whatever
 
