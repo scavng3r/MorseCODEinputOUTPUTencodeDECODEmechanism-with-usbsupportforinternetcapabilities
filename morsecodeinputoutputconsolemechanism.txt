@@ -12,6 +12,8 @@ simple 11111111<->00000000 on off beep or silence input and output encoder/decod
 when system is hung at <-> (somehow) it wait for input in binary tap from a successful <-> 8tap becomes
 an encoded message from the binary output from a delimiter string = space
 
+8tap encoding is done by adding a - between every number but dicluding the spaces between the binary with delimiter string = space
+
 then resumes normal operation and send the morse through internet channels or data feeds or soundoutputs or whatever
 
  daemon 2 (lets call it taptastic)
