@@ -1,4 +1,4 @@
-8tap encoding procedure example by encoding regular text with binaRy and delimiter script = space then placing 8 tap on top.
+8tap encoding procedure example by encoding regular text with binary and delimiter script = space then placing 8 tap on top.
 
 
 ---//start
