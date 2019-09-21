@@ -24,4 +24,46 @@ issues seen in idea storming
 there would need to be a delay @input and not decode
 decode would need to take in 8 tap (coolname>??)    8tap=(binary) encoded message
 
-so decode/8tap = binary output
+
+
+
+
+
+
+
+
+so decode/ascii-8tap = binary output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
