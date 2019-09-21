@@ -15,3 +15,11 @@ then resumes normal operation and send the morse through internet channels or da
 which would be running and listening for ports or data output in binary (maybe even a new way to get binary data realtime from cpu?!!)
 and then of course simple 11111111<->00000000 decode for output
 
+issues seen in idea storming
+
+- problems with machine reading timings and actually inputing inside binary given to 11111111<->00000000 rule
+
+there would need to be a delay @input and not decode
+decode would need to take in 8 tap (coolname>??)    8tap=(binary) encoded message
+
+so decode/8tap = binary output
