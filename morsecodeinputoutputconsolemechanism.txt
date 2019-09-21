@@ -32,7 +32,7 @@ decode would need to take in 8 tap (coolname>??)    8tap=(binary) encoded messag
 
 
 
-so decode/ascii-8tap = binary output
+so decode/ascii-8tap = binary text output
 
 
 
