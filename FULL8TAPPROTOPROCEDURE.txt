@@ -20,6 +20,7 @@ this is equal t0:
 
 
                as long as the data is in order 8tap can register otherwise it would be random-read?!
+-FRAGMENTING THE DATA IS AN OPTION ALSO!
 
 so this is also equal in this format as long as space remains:
 01110000 01101100 01100101 01100001 01110011
