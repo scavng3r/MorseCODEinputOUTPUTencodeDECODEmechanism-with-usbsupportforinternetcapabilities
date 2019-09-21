@@ -12,8 +12,10 @@ simple 11111111<->00000000 on off beep or silence input and output encoder/decod
 
 8tap encoding is done by adding a - between every 1 and 0 but discluding the spaces between the binary with delimiter string = space
 
-when system is hung at <-> (somehow) it wait for input in binary tap from a successful <-> 8tap which becomes
+when system is hung at 8tap <-> (somehow) it waits for input in binary 8tap from a successful <-> (8tap) which becomes
 an encoded message from the binary output from a delimiter string = space
+
+
 
 
 
